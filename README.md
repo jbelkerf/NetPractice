@@ -30,6 +30,9 @@ The following concepts were studied and applied to complete the project levels:
 * **OSI Layers:** Understanding the conceptual framework of network communication.
 
 ### AI Usage
-* **Tasks:** [e.g., Explaining subnetting logic and drafting this documentation]. 
+* **Tasks:** [e.g., Explaining subnetting logic ]. 
 * **Project Parts:** [e.g., Used for theoretical research and README structure]. 
 * **Ethical Consideration:** AI was used to reduce repetitive tasks. Only AI-generated content that was fully understood and verified was used. All results were critically assessed and reviewed.
+
+### Resources used
+* [pwn.college](https://pwn.college/intro-to-cybersecurity/intercepting-communication/) - getting hands dirty on tcp packets.
